@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <textFile>
+    <path>C:\TEMP\Text2PostgreSQL\sample_tbl</path>
+    <searchPattern>*.txt</searchPattern>
+    <delimiter>tab</delimiter>
+    <table name="sample_tbl" columns="ope_id:char:yes,ope_name:char:,update:char:"/>
+  </textFile>
+</root>

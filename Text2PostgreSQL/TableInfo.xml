@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <table name="sample_tbl">
+    <server xport="5432">windows10_hyper</server>
+    <userId>okazumi</userId>
+    <password>okazumi</password>
+    <database>okazumi_system</database>
+    <timeout>30</timeout>
+    <commandTimeout>1800</commandTimeout>
+  </table>
+</root>
